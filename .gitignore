@@ -1,0 +1,4 @@
+#dont track the following folders
+.vs
+bin/
+obj/
